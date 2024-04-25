@@ -7,7 +7,7 @@ Welcome to the GitHub repository for the [CDV04] project, where students are tas
 Your objective is to write a professional and personalised cover letter that enhances your application for the Junior React Developer position at Vulindlela. This document should serve as a direct communication channel between you and the hiring team, allowing you to make a memorable first impression.
 
 ### Link to Cover Letter
-[Your Google Docs Cover Letter](<[insert your Google Docs link here](https://docs.google.com/document/d/1lfHBHjxUscW35h3CYam8raR4QNeWXypmQYNhAQsim24/edit)>)
+[Your Google Docs Cover Letter](https://docs.google.com/document/d/1lfHBHjxUscW35h3CYam8raR4QNeWXypmQYNhAQsim24/edit)
 
 For detailed project instructions, including the job description and specific sections to include in your cover letter, please refer to the provided project brief on the LMS.
 
